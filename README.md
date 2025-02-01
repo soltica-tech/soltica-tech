@@ -1,6 +1,6 @@
-# Bienvenidos a Soltica
+# Bienvenidos a soltica
 
-Somos **Soltica**, una empresa emergente en el desarrollo de software. Nos especializamos en ofrecer soluciones tecnológicas innovadoras para enfrentar los desafíos del mundo digital.
+Somos **soltica**, una empresa emergente en el desarrollo de software. Nos especializamos en ofrecer soluciones tecnológicas innovadoras para enfrentar los desafíos del mundo digital.
 
 ## ¿Qué hacemos?
 - Desarrollamos **aplicaciones personalizadas** y **soluciones web** de alto rendimiento.
